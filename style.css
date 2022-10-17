@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color; */
+}
+
+#clgimg{
+    width: 100%;
+    height: 15vh;
+}
+
+.caro img {
+    height: 50vh;
+    width: 100vw;
+}
+
+.card{
+    width:90vw;
+    border-radius: 6px;
+}
+
+.content{
+    display: inline;
+}
+
+.about{
+    /* margin-left: 50px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer {
+    height:fit-content;
+    width: 100%;
+    background-color: rgb(5, 5, 23);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
+
+.address{
+    width: 48vw;
+}
+
+.footer-links ul li a{
+    text-decoration: none;
+    color: white;
+    margin-left: 6px;
+}
